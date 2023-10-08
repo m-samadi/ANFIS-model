@@ -1,0 +1,10 @@
+- All units are in cm.
+- The distances are considered in the range of (0, 100) cm.
+- It is assumed that 25 cm is the maximum distance to detect any obstacles in the scenarios.
+- Classes:
+	Turn-Right-Slightly (1), 45°
+	Turn-Right-Sharply (2), 90°
+	Turn-Left-Slightly (3), -45°
+	Turn-Left-Sharply (4), -90°
+	Turn-Back (5), 180°
+	Go-Forward (6), 0°
