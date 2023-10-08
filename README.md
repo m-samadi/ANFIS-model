@@ -1,0 +1,2 @@
+# ANFIS-model
+ANFIS model
