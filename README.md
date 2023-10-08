@@ -6,5 +6,5 @@ This repository includes the ANFIS model used in the paper entitled "An Intellig
 The repository includes two main elements: the data set and the ANFIS model. The data set is created in C++ codes and the ANFIS model is generated using the MATLAB ANFIS toolbox.
 <br/>
 <br/>
-## Programming language
-The programs are developed in Microsoft Visual Studio for creating the data set with C++ codes and in MATLAB for generating the ANFIS model.
+## Programming language and IDE
+The programs are developed in Microsoft Visual Studio for creating the data set with C++ code and in MATLAB for generating the ANFIS model.
