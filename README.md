@@ -1,5 +1,5 @@
-# Adaptive Neuro-Fuzzy Inference System (ANFIS) model
-This repository includes the ANFIS model used in the paper entitled "An Intelligent Approach for Autonomous Mobile Robots Path Planning Based on Adaptive Neuro-fuzzy Inference System" published by Elsevier on 15 May 2021.
+# ANFIS model
+This repository includes the Adaptive Neuro-Fuzzy Inference System (ANFIS) model used in the paper entitled "An Intelligent Approach for Autonomous Mobile Robots Path Planning Based on Adaptive Neuro-fuzzy Inference System" published by Elsevier on 15 May 2021.
 <br/>
 <br/>
 ## Elements
